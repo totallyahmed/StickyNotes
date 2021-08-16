@@ -9,6 +9,14 @@ body{
     font-size: 24px;
 }
 
+.heading{
+    width: 95%;
+    margin: auto;
+    font-size: 35px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blue;
+}
+
 .main-container{
     width: 95%;
     margin: auto;   
